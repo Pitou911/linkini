@@ -18,11 +18,21 @@ This project aims to provide a straightforward URL shortening service. Users can
 - **Backend:** Flask(Python)
 - **Database:** Firebase Realtime Database
 
+## Dependencies
+
+- **Express (Backend Web Framework):** ^4.17.1
+- **Firebase (Firestore):** ^9.0.2
+- **Shortid:** ^2.2.16
+- **Nodemon (Development Dependency):** ^2.0.15
+
 ## Getting Started
 
 ### Prerequisites
 
-- [List any prerequisites or dependencies users need to have before using your app]
+- Before you begin, ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/)
 
 ### Installation
 
