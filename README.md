@@ -14,8 +14,8 @@ This project aims to provide a straightforward URL shortening service. Users can
 
 ## Technologies Used
 
-- **Frontend:** [Specify your frontend technologies here]
-- **Backend:** [Specify your backend technologies here]
+- **Frontend:** HTML5, CSS3, React JS
+- **Backend:** Flask(Python)
 - **Database:** Firebase Realtime Database
 
 ## Getting Started
