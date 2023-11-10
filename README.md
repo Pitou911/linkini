@@ -21,10 +21,9 @@ This project aims to provide a straightforward URL shortening service. Users can
 
 ## Dependencies
 
-- **Express (Backend Web Framework):** ^4.17.1
-- **Firebase (Firestore):** ^9.0.2
-- **Shortid:** ^2.2.16
-- **Nodemon (Development Dependency):** ^2.0.15
+- **Flask (Web Framework):** `^x.x.x`
+- **Firebase Admin SDK:** `^x.x.x`
+- **Gunicorn (Web Server):** `^x.x.x`
 
 ## Getting Started
 
