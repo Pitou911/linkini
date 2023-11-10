@@ -39,4 +39,4 @@ This project aims to provide a straightforward URL shortening service. Users can
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/Pitou911/linkini.git
