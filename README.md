@@ -1,7 +1,7 @@
 # Full-Stack-URL-Shortene
 
 A simple full-stack URL shortener application using Firebase for storage.
-[Website](linkini.vercel.app)
+([linkini.vercel.app](https://linkini.vercel.app/))
 
 ## Overview
 
