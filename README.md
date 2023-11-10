@@ -33,6 +33,7 @@ This project aims to provide a straightforward URL shortening service. Users can
 
 - [Node.js](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/)
+- [venv](https://docs.python.org/3/library/venv.html) To create the virtual environment
 
 ### Installation
 
