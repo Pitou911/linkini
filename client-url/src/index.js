@@ -14,16 +14,6 @@ const firebaseConfig = {
   appId: process.env.REACT_APP_APP_ID,
   databaseURL: process.env.REACT_APP_DATABASE_URL,
 };
-// const firebaseConfig = {
-//   apiKey: "AIzaSyD5lMcpkaEc80Qa1Ropm3UwDawpSs-puxk",
-//   authDomain: "url-shortener-dfedf.firebaseapp.com",
-//   databaseURL:
-//     "https://url-shortener-dfedf-default-rtdb.europe-west1.firebasedatabase.app",
-//   projectId: "url-shortener-dfedf",
-//   storageBucket: "url-shortener-dfedf.appspot.com",
-//   messagingSenderId: "420063017796",
-//   appId: "1:420063017796:web:deb6aa758418c778933511",
-// };
 
 initializeApp(firebaseConfig);
 const root = ReactDOM.createRoot(document.getElementById("root"));
